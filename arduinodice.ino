@@ -1,4 +1,4 @@
-//Code by Gus @ arduinomylifeup.com
+//Code by Gus @ pimylifeup.com
 
 //Pin to to turn dice on & off
 int button = 2;
